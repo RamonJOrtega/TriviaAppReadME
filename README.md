@@ -12,7 +12,7 @@
 - This is full stack web app with database written in the `C# language`.
 - The app was built on the `ASP.NET Core` framework and a `Model View Controller` Design patern. 
 - The app also handles login and security.
-- The app alsoe uses standard `HTM`L, `CSS`, and `Javascript`
+- The app alsoe uses standard `HTML`, `CSS`, and `Javascript`
 
 ## About ASP.NET
 - `ASP.NET` is the answer to making dynamic web pages on the server.
