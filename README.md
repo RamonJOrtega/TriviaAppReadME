@@ -22,7 +22,7 @@ The app also handles login and security.
 The app alsoe uses standard `HTM`L, `CSS`, and `Javascript`
 
 The `.NET` runtime enviroment (platform) used is similar to the `Java Virtual Machine`.
-It consists of a runtime engine and libraries in a complient language like (`C#`, `C++`, `VB`, `Java`/`J++`), but we choose C#
+It consists of a runtime engine and libraries in a complient language like (`C#`, `C++`, `VB`, `Java`/`J++`), but we choose `C#` becasue of its popularity and large user base in conjuction with `ASP.NET`
 
 ASP looks like a mixture of `HTML` and `C#`. `ASP` runs on a server
 
