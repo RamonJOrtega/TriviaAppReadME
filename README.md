@@ -2,9 +2,10 @@
 Trivia App
 
 ## What Does it Do?
-Enter in Trivia Questions and thier Answers!
-Store your answers in the cloud!
-Add questions, Edit questions, Delete Questions
+1. Grab your phone or desktop and entertain your friends with your won Trivia!
+1. Enter in Trivia Questions and thier Answers.
+1. Store your answers in the cloud.
+1. Add questions, Edit questions, Delete Questions.
 
 ## About
 This is a CRUD app. `Create` `Read` `Update` `Delete`.
