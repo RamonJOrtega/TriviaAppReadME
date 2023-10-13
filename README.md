@@ -1,11 +1,12 @@
 # TriviaApp
 Trivia App
 
+## What Does it Do?
 Enter in Trivia Questions and thier Answers!
 Store your answers in the cloud!
 Add questions, Edit questions, Delete Questions
 
-About
+## About
 This is a CRUD app. Create Read Update Delete.
 Here a website, form, and database.
 This is full stack web ap with database written in the C# language.
@@ -23,3 +24,5 @@ The .NET runtime enviroment (platform) used is similar to the Java Virtual Machi
 It consists of a runtime engine and libraries in a complient language like (C#, C++, VB, Java/J++), but we choose C#
 
 ASP looks like a mixture of html and C##. Asp runs on a server
+
+## How to run
